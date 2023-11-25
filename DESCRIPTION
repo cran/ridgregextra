@@ -1,7 +1,7 @@
 Package: ridgregextra
 Type: Package
 Title: Ridge Regression Parameter Estimation
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Filiz", "Karadag", , "filiz.karadag@ege.edu.tr", role = c("aut"),
            comment = c(ORCID = "0000-0002-0116-7772")),
@@ -18,10 +18,10 @@ Depends: R (>= 4.0.0), plotly (>= 4.9.0), isdals (>= 3.0.0), mctest (>=
         1.3.0), stats(>= 4.0.0), graphics(>= 4.0.0)
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2023-03-15 18:28:34 UTC; olgunaydin
+Packaged: 2023-11-25 21:39:09 UTC; olgunaydin
 Author: Filiz Karadag [aut] (<https://orcid.org/0000-0002-0116-7772>),
   Hakan Savas Sazak [aut] (<https://orcid.org/0000-0001-6123-1214>),
   Olgun Aydin [cre] (<https://orcid.org/0000-0002-7090-0931>)
 Maintainer: Olgun Aydin <olgun.aydin@pg.edu.pl>
 Repository: CRAN
-Date/Publication: 2023-03-16 19:00:02 UTC
+Date/Publication: 2023-11-25 21:50:02 UTC
